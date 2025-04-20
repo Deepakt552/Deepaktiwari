@@ -23,7 +23,7 @@ A professional portfolio website built with HTML, CSS, and JavaScript, using Tai
 
 1. Clone the repository:
 ```
-git clone https://github.com/Deepakt552/portfolio.git
+git clone https://github.com/Deepakt552/Deepaktiwari.git
 ```
 
 2. Open the project folder:
